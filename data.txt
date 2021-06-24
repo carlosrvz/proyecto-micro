@@ -77,3 +77,16 @@
 24 Jun 2021 00:55:14 Humedad: 69.0%     Temperatura: 25.0 Celsius
 24 Jun 2021 00:55:19 Humedad: 69.0%     Temperatura: 25.0 Celsius
 24 Jun 2021 00:55:24 Humedad: 69.0%     Temperatura: 25.0 Celsius
+24 Jun 2021 00:55:29 Humedad: 69.0%     Temperatura: 25.0 Celsius
+24 Jun 2021 00:55:34 Humedad: 69.0%     Temperatura: 25.0 Celsius
+24 Jun 2021 00:55:38 Humedad: 69.0%     Temperatura: 25.0 Celsius
+24 Jun 2021 00:55:43 Humedad: 69.0%     Temperatura: 25.0 Celsius
+24 Jun 2021 00:55:48 Humedad: 69.0%     Temperatura: 25.0 Celsius
+24 Jun 2021 00:55:53 Humedad: 69.0%     Temperatura: 25.0 Celsius
+24 Jun 2021 00:55:57 Humedad: 69.0%     Temperatura: 25.0 Celsius
+24 Jun 2021 00:56:02 Humedad: 69.0%     Temperatura: 25.0 Celsius
+24 Jun 2021 00:56:07 Humedad: 69.0%     Temperatura: 25.0 Celsius
+24 Jun 2021 00:56:12 Humedad: 69.0%     Temperatura: 25.0 Celsius
+24 Jun 2021 00:56:16 Humedad: 69.0%     Temperatura: 25.0 Celsius
+24 Jun 2021 00:56:21 Humedad: 69.0%     Temperatura: 25.0 Celsius
+24 Jun 2021 00:56:26 Humedad: 69.0%     Temperatura: 25.0 Celsius
