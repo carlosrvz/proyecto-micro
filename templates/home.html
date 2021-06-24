@@ -1,0 +1,12 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+<div class="jumbotron">
+  <h1 class="display-4">Estación de control de cruce de ferrocarril y monitoreo ambiental</h1>
+  <p class="lead">Proyecto final de microcontroladores</p>
+  <hr class="my-4">
+  <p>Resgistros de la estación de control</p>
+    <a class="btn btn-primary btn-lg" href="{{url_for('download')}}">Descargar resgistros</a>
+  </div>
+  {% endblock %}
