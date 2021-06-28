@@ -1,5 +1,5 @@
-# Importamos la libreira de PySerial
-import serial
+# Importamos la libreira de PySerial y time
+import serial, time
 from time import localtime, strftime
 
 # Crea un objeto de tipo serial llamado ser y a continuación se seleccionan los parámetros
@@ -14,12 +14,22 @@ permite agregar nuevos datos a la lista el cual se designa con 'a' y por
 ultimo la codificación utf-8 '''
 
 # Crea un ciclo while que se repita indefinidamente
-while(True):
+cont=1
+while True:
+
     temp_file = open('data.txt', 'a', encoding = 'utf-8')
-    line = ser.readline()           # Lee una línea de texto del puerto serie
-    print(line)                     # Imprime esa línea
-    temp_file.write(strftime("%d %b %Y %H:%M:%S ", localtime()))
-    temp_file.write(line.decode())  # Agrega la línea al archivo de texto
+
+    line = ser.readline()          # Lee una línea de texto del puerto serie
+
+    print(line)                 # Imprime esa línea
+
+
+
+    if cont ==1 or cont% 10 == 0:
+        temp_file.write(strftime("%d %b %Y %H:%M:%S ", localtime()))
+        temp_file.write(line.decode())  # Agrega la línea al archivo de texto
+
+    cont+=1
     temp_file.close()
 
-ser.close()                 # Se cierra el puerto
+ser.close()

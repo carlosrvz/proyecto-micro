@@ -1,0 +1,19 @@
+27 Jun 2021 22:54:17 Humedad: 62.0%   Temperatura: 23.8 Celsius   VIA LIBRE
+27 Jun 2021 22:54:22 Humedad: 62.0%   Temperatura: 23.8 Celsius   VIA LIBRE
+27 Jun 2021 22:54:25 Humedad: 62.0%   Temperatura: 23.8 Celsius   CRUCE DE TREN
+27 Jun 2021 22:54:28 Humedad: 62.0%   Temperatura: 23.8 Celsius   CRUCE DE TREN
+27 Jun 2021 22:54:31 Humedad: 62.0%   Temperatura: 23.8 Celsius   CRUCE DE TREN
+27 Jun 2021 22:54:34 Humedad: 62.0%   Temperatura: 23.8 Celsius   CRUCE DE TREN
+27 Jun 2021 22:54:37 Humedad: 62.0%   Temperatura: 23.8 Celsius   CRUCE DE TREN
+27 Jun 2021 22:54:40 Humedad: 62.0%   Temperatura: 23.8 Celsius   CRUCE DE TREN
+27 Jun 2021 22:59:13 Humedad: 61.0%   Temperatura: 24.2 Celsius   VIA LIBRE
+27 Jun 2021 22:59:18 Humedad: 61.0%   Temperatura: 24.2 Celsius   VIA LIBRE
+27 Jun 2021 22:59:23 Humedad: 61.0%   Temperatura: 24.2 Celsius   VIA LIBRE
+27 Jun 2021 22:59:28 Humedad: 61.0%   Temperatura: 24.2 Celsius   VIA LIBRE
+27 Jun 2021 22:59:33 Humedad: 61.0%   Temperatura: 24.2 Celsius   CRUCE DE TREN
+27 Jun 2021 22:59:39 Humedad: 61.0%   Temperatura: 24.2 Celsius   CRUCE DE TREN
+27 Jun 2021 22:59:44 Humedad: 61.0%   Temperatura: 24.2 Celsius   CRUCE DE TREN
+27 Jun 2021 22:59:49 Humedad: 61.0%   Temperatura: 24.2 Celsius   CRUCE DE TREN
+27 Jun 2021 22:59:54 Humedad: 61.0%   Temperatura: 24.2 Celsius   VIA LIBRE
+27 Jun 2021 22:59:59 Humedad: 61.0%   Temperatura: 24.2 Celsius   VIA LIBRE
+27 Jun 2021 23:00:05 Humedad: 61.0%   Temperatura: 24.2 Celsius   VIA LIBRE
