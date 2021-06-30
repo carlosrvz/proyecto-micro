@@ -13,19 +13,14 @@ ser.open()                      # Se abre el puerto
 permite agregar nuevos datos a la lista el cual se designa con 'a' y por
 ultimo la codificación utf-8 '''
 
-# Crea un ciclo while que se repita indefinidamente
+# Crea un ciclo while que se repita indefinidamente con contador para guardar datos cada ciertas lineas
 cont=1
 while True:
-
     temp_file = open('data.txt', 'a', encoding = 'utf-8')
+    line = ser.readline()           # Lee una línea de texto del puerto serie
+    print(line)                     # Imprime esa línea
 
-    line = ser.readline()          # Lee una línea de texto del puerto serie
-
-    print(line)                 # Imprime esa línea
-
-
-
-    if cont ==1 or cont% 10 == 0:
+    if cont ==1 or cont% 100 == 0:
         temp_file.write(strftime("%d %b %Y %H:%M:%S ", localtime()))
         temp_file.write(line.decode())  # Agrega la línea al archivo de texto
 
